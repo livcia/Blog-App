@@ -199,3 +199,6 @@ __pycache__/
 
 # Windows thumbnail cache files
 Thumbs.db
+
+# Pliki ze zmiennymi srodowiskowymi
+.env
