@@ -17,7 +17,7 @@ This project is designed to create a blogging application leveraging modern web 
 - Full CRUD operations on posts
 
 ## Demo & Visuals
-Watch our demo on YouTube: [TechBlog Integration Platform Demo](https://youtu.be/iYJfto5luQA)
+Watch demo on YouTube: [TechBlog Integration Platform Demo](https://youtu.be/iYJfto5luQA)
 
 ![Posts](https://i.imgur.com/PrB6sYx.png)
 ![Admin Panel](https://i.imgur.com/UMDXbL5.png)
